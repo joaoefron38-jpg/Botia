@@ -1,0 +1,6 @@
+{
+  "name": "Venom Hacker Aviator Bot",
+  "description": "Bot injetor de Aviator para casas de apostas em Moçambique com detecção de sequências 2x/3x e alertas visuais/sonoros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
