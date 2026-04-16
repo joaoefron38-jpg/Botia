@@ -11,4 +11,4 @@ export interface AviatorResult {
   timestamp: Date;
 }
 
-export type SequenceType = '2x' | '3x' | 'none';
+export type SequenceType = '2x+' | 'none';
